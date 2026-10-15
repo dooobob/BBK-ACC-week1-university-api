@@ -1,9 +1,13 @@
 # WEEK1 University API
-
 A simple application to retrieve student data by student id.
 
-## Install
+## Requirements
+```
+fastapi==0.141.1
+uvicorn==0.52.4
+```
 
+## Install
 ```
 python -m pip install -r requirements.txt
 ```
